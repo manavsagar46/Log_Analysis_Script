@@ -27,7 +27,7 @@ Results are displayed in the console and saved in a CSV file in the `output` fol
 
 3. **Results**:
    - Console: Displays request counts, most accessed endpoint, and suspicious IPs.
-   - CSV: Results saved in `output/log_analysis_results.csv`.
+   - CSV: Results saved in `output/log_analysis_results.csv`..
 
 ---
 
