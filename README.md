@@ -35,7 +35,7 @@ Results are displayed in the console and saved in a CSV file in the `output` fol
 - `main.py`: Main script.
 - `log_processor.py`: Log processing logic.
 - `config.py`: Configurable settings.
-- `output/`: Directory for saving CSV output..
+- `output/`: Directory for saving CSV output....
 
 ---
 
