@@ -9,7 +9,7 @@ This Python tool analyzes server logs to:
 - Identify the most accessed endpoint.
 - Detect suspicious activity (failed login attempts exceeding a threshold).
 
-Results are displayed in the console and saved in a CSV file in the `output` folder...
+Results are displayed in the console and saved in a CSV file in the `output` folder..
 
 ---
 
