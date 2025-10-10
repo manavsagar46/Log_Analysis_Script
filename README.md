@@ -7,7 +7,7 @@
 This Python tool analyzes server logs to:
 - Count requests per IP.
 - Identify the most accessed endpoint..
-- Detect suspicious activity (failed login attempts exceeding a threshold)..
+- Detect suspicious activity (failed login attempts exceeding a threshold).
 
 Results are displayed in the console and saved in a CSV file in the `output` folder.
 
